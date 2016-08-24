@@ -1,0 +1,7 @@
+com\jpmorgan\stevesealtest\model\Trade.class
+com\jpmorgan\stevesealtest\service\PositionService.class
+com\jpmorgan\stevesealtest\model\Position.class
+com\jpmorgan\stevesealtest\repository\TradeRepository.class
+com\jpmorgan\stevesealtest\service\TradeCaptureService.class
+com\jpmorgan\stevesealtest\model\PositionKey.class
+com\jpmorgan\stevesealtest\model\TradeKey.class

@@ -1,0 +1,9 @@
+16:11:50,595  INFO main Position:72 - Received a trade to add : BUY,NEW
+16:11:50,598  INFO main Position:75 - Adding trade to positionTrades... it is NEW
+16:11:50,601  INFO main Position:72 - Received a trade to add : BUY,NEW
+16:11:50,602  INFO main Position:75 - Adding trade to positionTrades... it is NEW
+16:11:50,602  INFO main Position:72 - Received a trade to add : BUY,CANCEL
+16:11:50,602  INFO main Position:54 - positionTrades has : 1 Trades
+16:11:50,603  INFO main Position:72 - Received a trade to add : BUY,NEW
+16:11:50,604  INFO main Position:75 - Adding trade to positionTrades... it is NEW
+16:11:50,604  INFO main Position:54 - positionTrades has : 1 Trades
